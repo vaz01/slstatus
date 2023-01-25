@@ -1,0 +1,2 @@
+# slstatus
+my slstatus
